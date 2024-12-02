@@ -1,2 +1,6 @@
-# papillon-nails-overview
-This is a public repo to showcase the website I built for my dad's nail salon business. The project repo is private so I created this public repo to pin on my profile.
+I built a website for my dad's nail salon business in Pantego, Texas. 
+The salon is called Papillon Nails & Spa. 
+This is developed using Next.js to leverage the framework's server side rendering and built in optimizations with images and pre-fetching.
+
+<img width="1512" alt="Screenshot 2024-12-01 at 9 57 46 PM" src="https://github.com/user-attachments/assets/48d18b6f-f19e-424d-8f93-d69e4946b5ab">
+https://papillon-ivory.vercel.app/
